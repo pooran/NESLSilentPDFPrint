@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Web Developer Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NESLSilentPDFPrint", "NESLSilentPDFPrint\NESLSilentPDFPrint.csproj", "{00F3BD8B-3E51-448B-BA28-FEA4C49186FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NESLSilentPDFPrint.Web", "NESLSilentPDFPrint.Web\NESLSilentPDFPrint.Web.csproj", "{BA8D1534-E464-438A-9A2B-5BF147C6024A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00F3BD8B-3E51-448B-BA28-FEA4C49186FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F3BD8B-3E51-448B-BA28-FEA4C49186FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F3BD8B-3E51-448B-BA28-FEA4C49186FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F3BD8B-3E51-448B-BA28-FEA4C49186FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8D1534-E464-438A-9A2B-5BF147C6024A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8D1534-E464-438A-9A2B-5BF147C6024A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8D1534-E464-438A-9A2B-5BF147C6024A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8D1534-E464-438A-9A2B-5BF147C6024A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
